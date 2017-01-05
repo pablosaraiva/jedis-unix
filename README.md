@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/xetorthio/jedis.png?branch=master)](https://travis-ci.org/xetorthio/jedis)
-
 # Jedis Unix
 
 Jedis Unix is an unofficial jedis extension that adds support to Unix Domain Sockets
